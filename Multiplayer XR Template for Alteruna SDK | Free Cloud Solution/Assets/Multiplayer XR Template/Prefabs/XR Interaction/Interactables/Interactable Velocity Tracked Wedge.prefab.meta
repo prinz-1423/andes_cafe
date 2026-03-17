@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5615d616019430d9c2e8727e71c97fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/Interactables/Interactable
+    Velocity Tracked Wedge.prefab
+  uploadId: 642227

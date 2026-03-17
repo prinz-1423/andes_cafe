@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3fde713df4d99042a0403c4be9eea32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/Teleport/Blocking
+    Teleport Reticle.prefab
+  uploadId: 642227

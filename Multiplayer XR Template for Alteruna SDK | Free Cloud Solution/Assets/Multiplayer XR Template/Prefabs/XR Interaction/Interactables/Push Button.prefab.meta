@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76f3439a0ae796e4b81bee3f91f888ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/Interactables/Push
+    Button.prefab
+  uploadId: 642227

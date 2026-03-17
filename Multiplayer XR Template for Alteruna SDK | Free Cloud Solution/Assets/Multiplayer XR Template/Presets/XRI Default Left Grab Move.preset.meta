@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2e08fffc3edfbb47a429bae0c5a6343
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Presets/XRI Default Left Grab Move.preset
+  uploadId: 642227

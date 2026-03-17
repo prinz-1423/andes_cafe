@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e07eccb5e6f459d886de95044adb1d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/Teleportation
+    Environment.prefab
+  uploadId: 642227

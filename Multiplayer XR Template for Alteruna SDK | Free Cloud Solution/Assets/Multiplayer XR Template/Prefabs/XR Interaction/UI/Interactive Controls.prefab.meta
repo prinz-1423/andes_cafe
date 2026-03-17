@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bbb1960bab3e75459304488d8d1ffba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/UI/Interactive
+    Controls.prefab
+  uploadId: 642227

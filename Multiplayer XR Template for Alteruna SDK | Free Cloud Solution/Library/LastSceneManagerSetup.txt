@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Multiplayer XR Template/Scenes/XR Interaction.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

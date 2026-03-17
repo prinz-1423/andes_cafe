@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e16046ebcbcb6742a86569d82e56cce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Prefabs/XR Interaction/Interactables/Interactable
+    Simple Cube.prefab
+  uploadId: 642227

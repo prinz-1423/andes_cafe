@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b1e8c997df241c1a67045eeac79b41b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Scripts/XR Interaction/DynamicMoveProvider.cs
+  uploadId: 642227

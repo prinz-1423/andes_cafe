@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e6e6d902741c934ba75a28389d4f66e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Presets/XRI Default Gaze Controller.preset
+  uploadId: 642227

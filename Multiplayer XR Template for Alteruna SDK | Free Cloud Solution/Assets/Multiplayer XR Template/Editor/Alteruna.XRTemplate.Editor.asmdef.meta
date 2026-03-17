@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9233538b711383d449a485633568d17c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270882
+  packageName: Multiplayer XR Template for Alteruna SDK | Free Cloud Solution
+  packageVersion: 1.0
+  assetPath: Assets/Multiplayer XR Template/Editor/Alteruna.XRTemplate.Editor.asmdef
+  uploadId: 642227
